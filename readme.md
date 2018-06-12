@@ -1,4 +1,4 @@
-## To determin solution:
+## To determine solution:
 
 ```
 node run.js
