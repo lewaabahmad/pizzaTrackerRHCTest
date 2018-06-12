@@ -1,10 +1,10 @@
-##To determin solution:
+## To determin solution:
 
 ```
 node run.js
 ```
 
-##To run specs: 
+## To run specs: 
 
 ```
 npm test
@@ -12,9 +12,12 @@ npm test
 
 Be sure to have run `npm install` to prepare mocha and chai.
 
-##Solution:
+## Solution:
 
 As a solo delivery woman and given the question path, Maria delivers to:
-2565 houses!
+
+**2565** houses!
+
 As a duo, Maria and Clovis deliver to:
-2639 houses!
+
+**2639** houses!
